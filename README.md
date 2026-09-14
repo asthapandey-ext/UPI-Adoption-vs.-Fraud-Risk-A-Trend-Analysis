@@ -11,9 +11,9 @@ UPI's Card/Internet fraud-to-transaction-value ratio peaked at 0.0086% in FY2018
 📊 Dashboard
 
 The Power BI dashboard has 3 pages:
-![Fraud Risk Page](fraud_risk.png) 
-![Adoption Trend Page](adoption_trend.png) 
-![Forecasting Page](forecasting.png)
+![Fraud Risk Page](fraud_risk.png.png) 
+![Adoption Trend Page](adoption_trend.png.png) 
+![Forecasting Page](forecasting.png.png)
 
 
 Fraud Risk — annual fraud-to-transaction-value ratio trend (FY2016-17 to FY2024-25), KPI cards, and statistical outlier flags
