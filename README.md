@@ -20,8 +20,6 @@ Fraud Risk — annual fraud-to-transaction-value ratio trend (FY2016-17 to FY202
 Adoption Trend — monthly UPI transaction volume/value growth (April 2016 – August 2026)
 Forecasting — 6-month forward forecast of UPI transaction value
 
- ![Fraud Risk Page](screenshots/fraud_risk.png))
-
 🗂️ Data Sources
 Source	What it provides	Granularity
 NPCI UPI Product Statistics	Monthly UPI transaction volume & value	Monthly, Apr 2016 – Aug 2026
